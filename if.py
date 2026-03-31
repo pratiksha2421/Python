@@ -1,0 +1,2 @@
+if 5>2 :
+  print("5 is greater than 2")  #yha pr agar hum koi if ke bd print statement lgate h to hume space de kr print statement likhni pdegi vrna error a jaygi  ye ek block of code ke liye h ....or hum 1 space bhi de skte h or 4 bhi bs space dena is mandatory
