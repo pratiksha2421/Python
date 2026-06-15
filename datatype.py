@@ -6,4 +6,4 @@ print(y)
 print(z)
 
 # isme variable create krne ke liye value assign krni pddti h to unke data type bhi just assign krne se phle likhna pddta h hme
-# string variables ko hum sinngle or double quotes dono se declare kr skte h
+# string variables ko hum single or double quotes dono se declare kr skte h
